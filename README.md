@@ -1,6 +1,6 @@
-                                                                         👋 Hi, I'm Rohit Ganeshe  
-                                                       
-                                                                🌟 Curious About Data,Serious About Impact.
+#                                                             👋 Hi, I'm Rohit Ganeshe  
+
+##                                                        🌟 Curious About Data,Serious About Impact.
 
 ---
 
