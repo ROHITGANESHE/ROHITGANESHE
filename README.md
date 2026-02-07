@@ -1,12 +1,14 @@
-👋 Hi, I'm Rohit Ganeshe  
-🌟 Curious About Data,Serious About Impact.
+                                                                         👋 Hi, I'm Rohit Ganeshe  
+                                                       
+                                                                🌟 Curious About Data,Serious About Impact.
 
 ---
 
 ## 🧠 About Me
-I am a passionate Data Science enthusiast with a strong interest in transforming raw data into meaningful insights and building intelligent machine learning solutions.
+I am a passionate Data Science Enthusiast with a strong interest in transforming raw data into meaningful insights and building intelligent machine learning solutions.
 I continuously work on improving my skills in Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI, with a focus on real-world problem solving.
 Currently, I am building AI-driven projects, interactive dashboards, and end-to-end ML solutions to grow into an industry-ready Data Scientist.
+
 ---
 
 ## ⚙️ Technical Skills
@@ -27,7 +29,7 @@ Currently, I am building AI-driven projects, interactive dashboards, and end-to-
 Built an end-to-end classification model to predict customer tour package purchases using behavioral data.
 Applied EDA, feature engineering, and trained models including Logistic Regression, Decision Tree, and Random Forest.
 
-### Tour Packages Market Analysis (Web Scraping & EDA)
+### 🔍📈 Tour Packages Market Analysis (Web Scraping & EDA)
 Scraped 5,400+ tour package listings using BeautifulSoup and performed in-depth EDA to uncover pricing trends, destination popularity, and rating patterns.
 
 ### ⚡ Energy Consumption Analysis Using SQL
@@ -51,6 +53,7 @@ focusing on explaining concepts with real-world examples and practical use cases
 🔹 Data Preprocessing and Model Understanding (upcoming)
 
 📝 Read my blogs on Medium:
+
 ✍️ https://medium.com/@rohitganeshe2001
 
 ### 📜 Certifications
