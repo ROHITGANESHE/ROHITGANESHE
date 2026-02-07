@@ -8,9 +8,7 @@
 ---
 
 ## 🧠 About Me  
-I am a **passionate Data Science Enthusiast** with a strong interest in transforming raw data into meaningful insights and building intelligent machine learning solutions.  
-I continuously work on improving my skills in **Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI**, with a focus on real-world problem solving.  
-Currently, I am building **AI-driven projects, interactive dashboards, and end-to-end ML solutions** to grow into an **industry-ready Data Scientist**.
+I am a **passionate Data Science Enthusiast** with a strong interest in transforming raw data into meaningful insights and building intelligent machine learning solutions.  I continuously work on improving my skills in **Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI**, with a focus on real-world problem solving.  Currently, I am building **AI-driven projects, interactive dashboards, and end-to-end ML solutions** to grow into an **industry-ready Data Scientist**.
 
 ---
 
