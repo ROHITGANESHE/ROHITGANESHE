@@ -1,8 +1,11 @@
-<h1 align="center">Rohit Ganeshe</h1>
-<h3 align="center">AI/ML Engineer | Data Scientist | Generative AI Enthusiast</h3>
+<h1 align="center">
+  <a href="https://github.com/ROHITGANESHE">Rohit Ganeshe</a>
+</h1>
+
+<h3 align="center">🚀 AI/ML Engineer | Data Scientist | GenAI Explorer</h3>
 
 <p align="center">
-  <em>Building intelligent systems that turn data into measurable impact.</em>
+  🌟 Curious About Data. Serious About Impact.
 </p>
 
 <p align="center">
@@ -12,98 +15,145 @@
   <a href="https://medium.com/@rohitganeshe2001">Medium</a>
 </p>
 
-<hr>
+---
 
-<h2>Professional Summary</h2>
+## 🧠 About Me
 
-<p>
-AI/ML Engineer focused on designing, building, and deploying end-to-end machine learning systems.
-Strong foundation in Machine Learning, Deep Learning, NLP, and data analytics with hands-on experience
-developing real-world predictive models and interactive dashboards.
-</p>
+I build intelligent, end-to-end Machine Learning systems — from raw data preprocessing to production deployment.
 
-<ul>
-  <li>Production-ready ML pipelines</li>
-  <li>Data preprocessing & feature engineering</li>
-  <li>Model evaluation & optimization</li>
-  <li>Interactive dashboards & business insights</li>
-  <li>Exploring LLMs & Generative AI applications</li>
-</ul>
+🔹 Passionate about solving real-world problems using AI  
+🔹 Focused on production-ready ML systems  
+🔹 Strong foundation in ML, Deep Learning & NLP  
+🔹 Building AI-powered dashboards & scalable applications  
+🔹 Exploring LLM & Generative AI integration  
 
-<hr>
+> **“Learning deeply. Building practically. Deploying confidently.”**
 
-<h2>Technical Expertise</h2>
+---
 
-<h3>Programming</h3>
-<p>Python | SQL</p>
+## ⚙️ Tech Stack
 
-<h3>Machine Learning</h3>
-<p>
-Classification | Regression | Clustering | Model Evaluation | 
-Cross Validation | Feature Engineering | scikit-learn
-</p>
+### 👨‍💻 Programming
+**Python | SQL**
 
-<h3>Deep Learning</h3>
-<p>
-Neural Networks | CNN | TensorFlow | Keras | Optimization Techniques
-</p>
+Core Concepts:  
+Data Structures • OOP • Functional Programming • Algorithmic Thinking  
 
-<h3>Natural Language Processing</h3>
-<p>
-Text Cleaning | TF-IDF | Sentiment Analysis | ML-based NLP | Prompt Engineering
-</p>
+---
 
-<h3>Data & Visualization</h3>
-<p>
-Pandas | NumPy | Matplotlib | Seaborn | Power BI | EDA
-</p>
+### 🤖 Machine Learning
+**Scikit-Learn**
 
-<h3>Tools & Deployment</h3>
-<p>
-Streamlit | Git | GitHub | Model Serialization (Pickle / Joblib)
-</p>
+Supervised Learning • Unsupervised Learning  
+Model Evaluation • Cross Validation  
+Feature Engineering • Hyperparameter Tuning  
+Classification • Regression • Clustering • Ensemble Methods  
 
-<hr>
+---
 
-<h2>Selected Projects</h2>
+### 🧠 Deep Learning
+**TensorFlow | Keras**
 
-<h3>Tourism Analytics & Prediction System</h3>
-<ul>
-  <li>Built end-to-end classification pipeline to predict tour package purchases</li>
-  <li>Applied feature engineering and model comparison techniques</li>
-  <li>Implemented Logistic Regression, Decision Tree, and Random Forest</li>
-  <li>Developed interactive prediction interface</li>
-</ul>
+Neural Networks • ANN • CNN  
+Backpropagation • Loss Functions • Optimization Algorithms  
 
-<h3>Tour Packages Market Intelligence (Web Scraping + EDA)</h3>
-<ul>
-  <li>Scraped 5,400+ listings using BeautifulSoup</li>
-  <li>Performed detailed EDA to uncover pricing trends and demand patterns</li>
-</ul>
+---
 
-<h3>Energy Consumption Analysis Using SQL</h3>
-<ul>
-  <li>Analyzed GDP, emissions, and energy metrics using optimized SQL queries</li>
-  <li>Generated insights through joins, aggregations, and trend analysis</li>
-</ul>
+### 🗣 NLP & Generative AI
 
-<h3>Telangana Weather Dashboard</h3>
-<ul>
-  <li>Built interactive Power BI dashboard for rainfall and seasonal trends</li>
-  <li>District-wise weather comparison and visualization</li>
-</ul>
+Text Cleaning • Tokenization • TF-IDF  
+Sentiment Analysis • Text Classification  
+Prompt Engineering • LLM Concepts • AI Applications  
 
-<hr>
+---
 
-<h2>Certifications</h2>
-<p>
-Python, SQL, Power BI & Machine Learning – Innomatics Research Lab, Pune
-</p>
+### 📊 Data & Visualization
+**Pandas | NumPy | Matplotlib | Seaborn | Power BI**
 
-<hr>
+EDA • Data Cleaning • Statistical Analysis  
+Dashboard Development • Data Visualization • Reporting  
 
-<h2>Professional Philosophy</h2>
+---
 
-<p align="center">
-  <em>"Learning deeply. Building practically. Deploying confidently."</em>
-</p>
+### 🚀 Deployment & Tools
+**Streamlit | Git | GitHub**
+
+Model Deployment • Web Apps  
+Environment Management • Version Control  
+Model Serialization (Pickle / Joblib)
+
+---
+
+# 🔥 Featured Projects
+
+### 📈 Tourism Analytics & Prediction Suite
+
+✔ Built end-to-end ML classification pipeline  
+✔ Applied feature engineering & model comparison  
+✔ Used Logistic Regression, Decision Tree, Random Forest  
+✔ Designed interactive prediction interface  
+
+---
+
+### 🔍 Tour Packages Market Analysis
+
+✔ Scraped 5,400+ listings using BeautifulSoup  
+✔ Performed deep EDA to uncover pricing & rating trends  
+✔ Identified high-demand destinations  
+
+---
+
+### ⚡ Energy Consumption Analysis Using SQL
+
+✔ Optimized SQL queries with joins & aggregations  
+✔ Analyzed GDP, emissions & energy trends  
+✔ Generated actionable insights  
+
+---
+
+### 🌦 Telangana Weather Dashboard
+
+✔ Built interactive Power BI dashboard  
+✔ Visualized rainfall trends & seasonal analysis  
+✔ District-wise weather comparison  
+
+---
+
+## ✍️ Technical Writing
+
+I write beginner-friendly and practical articles on:
+
+🔹 AI & Machine Learning Concepts  
+🔹 Real-World Applications of ML  
+🔹 Data Preprocessing & Model Understanding  
+🔹 GenAI & Emerging AI Technologies  
+
+📝 **Read on Medium:**  
+👉 <a href="https://medium.com/@rohitganeshe2001">medium.com/@rohitganeshe2001</a>
+
+---
+
+## 📜 Certifications
+
+🎓 Python, SQL, Power BI & Machine Learning  
+Innomatics Research Lab, Pune  
+
+---
+
+## 📊 GitHub Stats
+
+You can add dynamic stats later using GitHub Readme Stats.
+
+---
+
+## 📫 Connect With Me
+
+🌐 <a href="https://github.com/ROHITGANESHE">GitHub</a>  
+💼 <a href="https://www.linkedin.com/in/rohit-ganeshe-8a7041237/">LinkedIn</a>  
+📧 <a href="mailto:rohitganeshe2001@gmail.com">rohitganeshe2001@gmail.com</a>  
+
+---
+
+## 💡 Mindset
+
+> **“Learning every day. Building every day. Growing every day.”** 🚀
