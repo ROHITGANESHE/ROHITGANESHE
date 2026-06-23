@@ -2,12 +2,12 @@
   <a href="https://github.com/ROHITGANESHE">Rohit Ganeshe</a>
 </h1>
 
-<h3 align="center">🚀 Data Analyst | AI/ML Engineer | Data Scientist | GenAI Explorer</h3>
+<h3 align="center">🚀 Data Analyst | Data Scientist  | AI/ML Engineer | GenAI Explorer</h3>
 
 <p align="center">
   🌟 Curious About Data. Serious About Impact.
 </p>
-
+ AI/ML Engineer
 <p align="center">
   <a href="https://github.com/ROHITGANESHE">GitHub</a> • 
   <a href="https://www.linkedin.com/in/rohit-ganeshe-8a7041237/">LinkedIn</a> • 
