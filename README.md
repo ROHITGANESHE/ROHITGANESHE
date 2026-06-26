@@ -12,6 +12,7 @@
   <a href="https://github.com/ROHITGANESHE">GitHub</a> • 
   <a href="https://www.linkedin.com/in/rohit-ganeshe-8a7041237/">LinkedIn</a> • 
   <a href="mailto:rohitganeshe2001@gmail.com">Email</a> • 
+  <a href="https://rohitganeshe.github.io/">GitHub</a> •
   <a href="https://medium.com/@rohitganeshe2001">Medium</a>
 </p>
 
